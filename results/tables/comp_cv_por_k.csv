@@ -1,0 +1,154 @@
+config,k,acc_cv,acc_cv_ep,auc_cv
+"Padronizado, 22 variáveis (notebook)",1,0.5752,0.0105,0.5752
+"Padronizado, 22 variáveis (notebook)",3,0.6143,0.0176,0.629
+"Padronizado, 22 variáveis (notebook)",5,0.62,0.0131,0.6514
+"Padronizado, 22 variáveis (notebook)",7,0.6371,0.0154,0.6739
+"Padronizado, 22 variáveis (notebook)",9,0.6314,0.0079,0.6743
+"Padronizado, 22 variáveis (notebook)",11,0.6352,0.0099,0.6809
+"Padronizado, 22 variáveis (notebook)",13,0.6381,0.0104,0.6871
+"Padronizado, 22 variáveis (notebook)",15,0.6448,0.0121,0.6913
+"Padronizado, 22 variáveis (notebook)",17,0.6505,0.0144,0.6944
+"Padronizado, 22 variáveis (notebook)",19,0.6514,0.0133,0.6971
+"Padronizado, 22 variáveis (notebook)",21,0.6476,0.0115,0.6947
+"Padronizado, 22 variáveis (notebook)",23,0.6438,0.0131,0.6946
+"Padronizado, 22 variáveis (notebook)",25,0.641,0.0112,0.6972
+"Padronizado, 22 variáveis (notebook)",27,0.639,0.0114,0.6987
+"Padronizado, 22 variáveis (notebook)",29,0.641,0.0114,0.6953
+"Padronizado, 22 variáveis (notebook)",31,0.6419,0.0079,0.6959
+"Padronizado, 22 variáveis (notebook)",33,0.641,0.0085,0.6996
+"Padronizado, 22 variáveis (notebook)",35,0.6419,0.0092,0.7007
+"Padronizado, 22 variáveis (notebook)",37,0.6448,0.0094,0.7027
+"Padronizado, 22 variáveis (notebook)",39,0.6429,0.0104,0.702
+"Padronizado, 22 variáveis (notebook)",41,0.6429,0.011,0.7045
+"Padronizado, 22 variáveis (notebook)",43,0.64,0.0123,0.703
+"Padronizado, 22 variáveis (notebook)",45,0.639,0.0136,0.7026
+"Padronizado, 22 variáveis (notebook)",47,0.6457,0.0132,0.703
+"Padronizado, 22 variáveis (notebook)",49,0.6419,0.0122,0.7051
+"Padronizado, 22 variáveis (notebook)",51,0.64,0.0124,0.7054
+"Padronizado, 22 variáveis (notebook)",53,0.6305,0.0135,0.7056
+"Padronizado, 22 variáveis (notebook)",55,0.6305,0.0142,0.7045
+"Padronizado, 22 variáveis (notebook)",57,0.6286,0.0118,0.7061
+"Padronizado, 22 variáveis (notebook)",59,0.6219,0.0138,0.7068
+"Padronizado, 22 variáveis (notebook)",61,0.6238,0.0107,0.7054
+"Padronizado, 22 variáveis (notebook)",63,0.6295,0.0109,0.7034
+"Padronizado, 22 variáveis (notebook)",65,0.6229,0.0123,0.7004
+"Padronizado, 22 variáveis (notebook)",67,0.6181,0.0114,0.6997
+"Padronizado, 22 variáveis (notebook)",69,0.6181,0.0104,0.698
+"Padronizado, 22 variáveis (notebook)",71,0.619,0.0103,0.703
+"Padronizado, 22 variáveis (notebook)",73,0.6152,0.0101,0.7007
+"Padronizado, 22 variáveis (notebook)",75,0.619,0.0118,0.7023
+"Padronizado, 22 variáveis (notebook)",77,0.6133,0.0105,0.7007
+"Padronizado, 22 variáveis (notebook)",79,0.6133,0.0093,0.6985
+"Padronizado, 22 variáveis (notebook)",81,0.6133,0.0103,0.6985
+"Padronizado, 22 variáveis (notebook)",83,0.6057,0.0092,0.6975
+"Padronizado, 22 variáveis (notebook)",85,0.599,0.01,0.6916
+"Padronizado, 22 variáveis (notebook)",87,0.599,0.0107,0.689
+"Padronizado, 22 variáveis (notebook)",89,0.6019,0.0106,0.6896
+"Padronizado, 22 variáveis (notebook)",91,0.6048,0.0101,0.6873
+"Padronizado, 22 variáveis (notebook)",93,0.6048,0.0109,0.6854
+"Padronizado, 22 variáveis (notebook)",95,0.6057,0.0103,0.6854
+"Padronizado, 22 variáveis (notebook)",97,0.6038,0.0101,0.6849
+"Padronizado, 22 variáveis (notebook)",99,0.6019,0.0107,0.6841
+"Padronizado, 22 variáveis (notebook)",101,0.6067,0.0099,0.6844
+"Log + padronizado, 22 variáveis",1,0.6457,0.0181,0.6456
+"Log + padronizado, 22 variáveis",3,0.6505,0.0159,0.6954
+"Log + padronizado, 22 variáveis",5,0.6648,0.0159,0.7166
+"Log + padronizado, 22 variáveis",7,0.6714,0.0193,0.732
+"Log + padronizado, 22 variáveis",9,0.681,0.0128,0.739
+"Log + padronizado, 22 variáveis",11,0.6819,0.0134,0.747
+"Log + padronizado, 22 variáveis",13,0.6876,0.0153,0.7591
+"Log + padronizado, 22 variáveis",15,0.6962,0.0113,0.766
+"Log + padronizado, 22 variáveis",17,0.7095,0.011,0.7724
+"Log + padronizado, 22 variáveis",19,0.7162,0.0119,0.777
+"Log + padronizado, 22 variáveis",21,0.7124,0.0143,0.7757
+"Log + padronizado, 22 variáveis",23,0.7105,0.0136,0.7746
+"Log + padronizado, 22 variáveis",25,0.7124,0.0165,0.7765
+"Log + padronizado, 22 variáveis",27,0.7171,0.0126,0.7788
+"Log + padronizado, 22 variáveis",29,0.7114,0.0105,0.7812
+"Log + padronizado, 22 variáveis",31,0.7124,0.0125,0.7804
+"Log + padronizado, 22 variáveis",33,0.7114,0.0124,0.7818
+"Log + padronizado, 22 variáveis",35,0.7152,0.0096,0.7834
+"Log + padronizado, 22 variáveis",37,0.7105,0.0096,0.7831
+"Log + padronizado, 22 variáveis",39,0.7057,0.0103,0.7828
+"Log + padronizado, 22 variáveis",41,0.7067,0.0087,0.7835
+"Log + padronizado, 22 variáveis",43,0.7076,0.0093,0.7841
+"Log + padronizado, 22 variáveis",45,0.7038,0.0087,0.7848
+"Log + padronizado, 22 variáveis",47,0.6981,0.0093,0.783
+"Log + padronizado, 22 variáveis",49,0.6952,0.0099,0.782
+"Log + padronizado, 22 variáveis",51,0.6971,0.0096,0.7829
+"Log + padronizado, 22 variáveis",53,0.6962,0.0102,0.7826
+"Log + padronizado, 22 variáveis",55,0.6981,0.008,0.7837
+"Log + padronizado, 22 variáveis",57,0.7048,0.009,0.7836
+"Log + padronizado, 22 variáveis",59,0.7029,0.0083,0.7836
+"Log + padronizado, 22 variáveis",61,0.7038,0.0089,0.7826
+"Log + padronizado, 22 variáveis",63,0.701,0.0108,0.7823
+"Log + padronizado, 22 variáveis",65,0.6981,0.011,0.7828
+"Log + padronizado, 22 variáveis",67,0.699,0.011,0.7826
+"Log + padronizado, 22 variáveis",69,0.6971,0.01,0.7819
+"Log + padronizado, 22 variáveis",71,0.6952,0.0098,0.785
+"Log + padronizado, 22 variáveis",73,0.7048,0.0107,0.7849
+"Log + padronizado, 22 variáveis",75,0.7048,0.0105,0.7845
+"Log + padronizado, 22 variáveis",77,0.7057,0.0101,0.7834
+"Log + padronizado, 22 variáveis",79,0.701,0.0095,0.7846
+"Log + padronizado, 22 variáveis",81,0.7086,0.0105,0.785
+"Log + padronizado, 22 variáveis",83,0.7143,0.0092,0.7867
+"Log + padronizado, 22 variáveis",85,0.7124,0.0093,0.7867
+"Log + padronizado, 22 variáveis",87,0.7114,0.0085,0.7864
+"Log + padronizado, 22 variáveis",89,0.7086,0.0084,0.7878
+"Log + padronizado, 22 variáveis",91,0.7057,0.008,0.7871
+"Log + padronizado, 22 variáveis",93,0.7076,0.0078,0.788
+"Log + padronizado, 22 variáveis",95,0.7124,0.0083,0.7885
+"Log + padronizado, 22 variáveis",97,0.7114,0.0079,0.7879
+"Log + padronizado, 22 variáveis",99,0.7067,0.0078,0.7877
+"Log + padronizado, 22 variáveis",101,0.7038,0.007,0.7873
+"Log + padronizado, 2 variáveis",1,0.6086,0.0275,0.6083
+"Log + padronizado, 2 variáveis",3,0.6848,0.0114,0.7218
+"Log + padronizado, 2 variáveis",5,0.6819,0.0073,0.7364
+"Log + padronizado, 2 variáveis",7,0.6819,0.0084,0.7457
+"Log + padronizado, 2 variáveis",9,0.6838,0.0088,0.7508
+"Log + padronizado, 2 variáveis",11,0.699,0.0083,0.7622
+"Log + padronizado, 2 variáveis",13,0.701,0.011,0.7669
+"Log + padronizado, 2 variáveis",15,0.7105,0.0081,0.7731
+"Log + padronizado, 2 variáveis",17,0.7114,0.0074,0.7726
+"Log + padronizado, 2 variáveis",19,0.7067,0.0085,0.7781
+"Log + padronizado, 2 variáveis",21,0.7143,0.0067,0.7763
+"Log + padronizado, 2 variáveis",23,0.7105,0.0079,0.7793
+"Log + padronizado, 2 variáveis",25,0.7229,0.0064,0.7812
+"Log + padronizado, 2 variáveis",27,0.7162,0.008,0.7808
+"Log + padronizado, 2 variáveis",29,0.7248,0.0081,0.7814
+"Log + padronizado, 2 variáveis",31,0.7181,0.0073,0.7839
+"Log + padronizado, 2 variáveis",33,0.7229,0.0082,0.7856
+"Log + padronizado, 2 variáveis",35,0.721,0.008,0.788
+"Log + padronizado, 2 variáveis",37,0.72,0.0087,0.7891
+"Log + padronizado, 2 variáveis",39,0.7181,0.0105,0.7898
+"Log + padronizado, 2 variáveis",41,0.7219,0.0105,0.7885
+"Log + padronizado, 2 variáveis",43,0.7152,0.0111,0.7884
+"Log + padronizado, 2 variáveis",45,0.719,0.0107,0.7875
+"Log + padronizado, 2 variáveis",47,0.7219,0.0117,0.7874
+"Log + padronizado, 2 variáveis",49,0.7171,0.0108,0.7884
+"Log + padronizado, 2 variáveis",51,0.7181,0.0081,0.7886
+"Log + padronizado, 2 variáveis",53,0.7114,0.0099,0.7888
+"Log + padronizado, 2 variáveis",55,0.7124,0.0106,0.788
+"Log + padronizado, 2 variáveis",57,0.7105,0.0115,0.7876
+"Log + padronizado, 2 variáveis",59,0.7133,0.0107,0.7864
+"Log + padronizado, 2 variáveis",61,0.7114,0.0115,0.7871
+"Log + padronizado, 2 variáveis",63,0.7143,0.0126,0.7869
+"Log + padronizado, 2 variáveis",65,0.7114,0.0128,0.7872
+"Log + padronizado, 2 variáveis",67,0.7133,0.0127,0.7854
+"Log + padronizado, 2 variáveis",69,0.7114,0.0115,0.7872
+"Log + padronizado, 2 variáveis",71,0.7152,0.0119,0.787
+"Log + padronizado, 2 variáveis",73,0.7124,0.0117,0.7886
+"Log + padronizado, 2 variáveis",75,0.7114,0.0133,0.7872
+"Log + padronizado, 2 variáveis",77,0.7124,0.0125,0.7873
+"Log + padronizado, 2 variáveis",79,0.7095,0.0125,0.7877
+"Log + padronizado, 2 variáveis",81,0.7152,0.0124,0.7887
+"Log + padronizado, 2 variáveis",83,0.7133,0.0138,0.7897
+"Log + padronizado, 2 variáveis",85,0.7114,0.0121,0.791
+"Log + padronizado, 2 variáveis",87,0.7114,0.012,0.7901
+"Log + padronizado, 2 variáveis",89,0.7048,0.0121,0.7907
+"Log + padronizado, 2 variáveis",91,0.7057,0.0111,0.7907
+"Log + padronizado, 2 variáveis",93,0.7057,0.012,0.7901
+"Log + padronizado, 2 variáveis",95,0.7048,0.0129,0.7909
+"Log + padronizado, 2 variáveis",97,0.7029,0.0119,0.7899
+"Log + padronizado, 2 variáveis",99,0.7067,0.0119,0.7898
+"Log + padronizado, 2 variáveis",101,0.7067,0.0122,0.7889

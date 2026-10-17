@@ -1,0 +1,5 @@
+,acc_teste,AUC_teste
+KNN (k = 15),0.6422,0.7045
+"Árvore profundidade 2 (Lista 4, notebook)",0.7356,0.7657
+"Árvore profundidade 4 (Lista 4, após remover COD_CLI)",0.76,0.7877
+Regressão logística (Lista 5),0.7178,0.7751

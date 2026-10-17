@@ -1,0 +1,4 @@
+config,k (CV),acc CV,AUC CV,acc teste,AUC teste,variáveis
+"Padronizado, 22 variáveis (notebook)",19,0.6514,0.6971,0.6356,0.7063,todas
+"Log + padronizado, 22 variáveis",27,0.7171,0.7788,0.6844,0.765,todas
+"Log + padronizado, 2 variáveis",29,0.7248,0.7814,0.72,0.8224,"IFIN3, REST_TIPO_1"
